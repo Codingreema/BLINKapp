@@ -1,2 +1,2 @@
 # BLINKapp
-an app that can save [text, image, file, link] using CloudKit
+a project that can save [text, image, file, link] using CloudKit
